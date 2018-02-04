@@ -12,3 +12,5 @@ yarn-error.log
 .env
 composer.lock
 .gitignore
+.env.example
+.env
